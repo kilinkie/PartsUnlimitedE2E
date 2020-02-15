@@ -5,7 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class CartItem : ILineItem
     {
-        //pierszy commit i pierwszy komentarz
+        //drugi komentarz
         [Key]
         public int CartItemId { get; set; }
 
